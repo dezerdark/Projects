@@ -70,10 +70,9 @@ button{
 
 .test{
 	position: fixed;
-		display : table-row;
-	
+	display : table-row;
 	margin:0;
-		background-color: red;
+	background-color: red;
 }
 
 
